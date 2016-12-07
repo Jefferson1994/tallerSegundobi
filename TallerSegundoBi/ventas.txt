@@ -1,0 +1,13 @@
+	Comercial Ventas y Reventas
+
+Nombre: jefferson
+Ciudad: loja
+----------------------------
+Producto	Cantidad	Precio	
+Arroz		20			50,00
+Aceite		12			15,60
+Tallarines	12			18,00
+-----------------------
+		Subtotal: 53,60
+		Iva 14: 7,50
+		Total: 61,10
